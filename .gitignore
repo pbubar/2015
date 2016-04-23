@@ -1,10 +1,14 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
+=======
+>>>>>>> caffc21c8f7c758c1884852ed023d29dccea063f
 *.py[cod]
 
 # C extensions
 *.so
 
+<<<<<<< HEAD
 # Distribution / packaging
 .Python
 env/
@@ -87,3 +91,42 @@ Temporary Items
 
 #Temporary data
 tempdata/
+=======
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+#OSX
+__MACOSX/
+.DS_Store
+
+#Ipython
+.ipynb_checkpoints/
+>>>>>>> caffc21c8f7c758c1884852ed023d29dccea063f
